@@ -1,0 +1,36 @@
+Initial Execution Plan
+Scope/Objectives
+•	Problem: Finding who is on campus, where the individual is located, what people are doing, and how busy rooms are.
+•	Use case: Cornell Tech students walk into campus, sees a board broadcasting location information of people that have ‘check-in’. User that has app broadcasts to display board that user is checking and where the location of other users are on campus.
+Meeting Time
+•	Recurring meeting with Team mentor: Every Tuesday, 4 – 4:30pm
+•	Recurring meeting with Faculty Advisor: Every other week with Mor (To be scheduled)
+Deliverables
+•	Working Android application 
+•	Backend-server
+•	Front-end display on the big board
+•	Technical/functional documentation explaining key aspects of the app (for others to support/enhance)
+•	Pitch/final presentation
+Work plan / Milestones
+•	Sept.
+o	Talk to XX number of students to validate problem / ideate potential solution
+•	Oct.
+o	Develop functional back-end
+o	Wireframe/prototype UI for mobile app and display
+•	Nov.
+o	Develop working app prototype including back-end
+o	Draft technical documentation and pitch desk
+•	Dec.
+o	Create version 1 / MVP
+o	Pitch presentation
+Success Metric
+•	75% of app downloads by Cornell Tech students and faculty with Android phones
+•	# of check-ins and usage information
+•	Student survey post launch, that they have an easier time finding people on campus
+Risk
+•	Technical: Ability for app to accurately report location of user when multiple beacon signals are received -> Mitigation: Putting this question on the build-board and seek help, Seeking advice from mentors
+•	Technical: Ability to build application and back-end server to support functionality -> Mitigation: MS students are taking an Android class “Building Startup Systems” that have some technical overlap.
+•	General: Are we solving the right student problem? -> Mitigation: We’ll interview Cornell Tech students regarding the issue to get ‘voice of customer’
+•	Scheduling: Given vastly varying class schedules, will the project we delayed? -> Mitigation: We’re planning to share calendars so we can see what potential conflicts are, we plan to also lock down a time to work together.
+•	Physical permission: Do we have permission to install beacons in the classroom? -> We’re going to ask Mor to confirm this is acceptable.
+
